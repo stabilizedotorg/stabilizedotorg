@@ -1,5 +1,7 @@
 # Credits
 
+The MIT license in this repository covers its code only. Nothing on this page is covered by it. The names and marks of Stabilize.org, ARC and Renaissance Philanthropy are not licensed for reuse.
+
 ## Photographs
 
 Each photograph has been resized, cropped by the page to fit the screen, and given a muted color treatment. The cut-out files (`img/*-2000.webp`) are parts of the same photographs with the rest made transparent.
